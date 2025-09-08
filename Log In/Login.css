@@ -1,5 +1,5 @@
 body {
-    background-image: url("../imagesforlogin/fondocatedral.png");
+    background-image: url("../imagesforlogin/fondocatedral3.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: #fff;
@@ -10,9 +10,10 @@ body {
 }
 
 .logo {
-    width: 180px;         /* Cambia el tamaño aquí */
-    height: auto;        /* Mantiene la proporción */
+    width: 185px;
+    height: auto;
     filter: drop-shadow(0px 4px 8px rgba(255, 255, 255, 0.8));
+    margin-bottom: 18px;
 }
 
 
